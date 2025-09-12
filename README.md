@@ -1,4 +1,4 @@
-# Portfolio of Daniel Gois: Aspiring Software Developer
+# Portfolio of Daniel Gois: Software Developer
 
 Welcome to my portfolio! I'm Daniel Gois, a passionate software developer dedicated to building efficient and user-friendly applications. I have a strong interest in system analysis and software development, with hands-on experience in both academic and real-world settings.
 
@@ -13,17 +13,17 @@ Welcome to my portfolio! I'm Daniel Gois, a passionate software developer dedica
 - [Certifications](#-certifications)
 - [Professional Development](#-professional-development)
 - [Collaborative Projects](#-collaborative-projects)
-- [References](#-referencestestimonials)
 - [Contact](#-contact-information)
 
 ---
 
 ## 📌 About Me
 
-I'm a recent graduate in **Computer Science** from XYZ University, with a strong focus on software engineering and systems development.
+I am currently studying Systems Analysis and Development at SENAC College – Pernambuco, currently in its 4th semester, expected to graduate in 2026.1
 
 ### 🎓 Educational Background
-- **Bachelor of Science in Computer Science**, XYZ University (2021–2025)
+- **Technologist in Systems Analysis and Development**, SENAC College – Pernambuco (2024–expected to graduate in 2026.1)
+  
 - Relevant Courses:
   - Data Structures and Algorithms
   - Web Development
@@ -32,15 +32,14 @@ I'm a recent graduate in **Computer Science** from XYZ University, with a strong
 
 ### 💡 Interests
 - Systems Analysis
-- Full-stack Development
+- Backend/Full-stack Development
 - Software Architecture
-- Open Source Contributions
 
 ### 🧑‍💼 Experience
-- **Software Development Intern** at ABC Tech (Summer 2024)
-  - Built a RESTful API using Node.js and Express
+- **Software Development Intern** at Mobile Tech (2024.1)
+  - Built a mobile app with Android Studio and SQLiete Database for Integrator Project to be approved in the 3rd semester
   - Collaborated in Agile teams and participated in daily stand-ups
-  - Contributed to UI components using React
+  - I was the leader of the PI group this 3rd semester
 
 ---
 
@@ -50,9 +49,9 @@ I'm a recent graduate in **Computer Science** from XYZ University, with a strong
 
 ### Summary:
 - **Education**: B.Sc. in Computer Science, XYZ University
-- **Work Experience**: Internships in full-stack development
-- **Skills**: JavaScript, Python, SQL, Git, Agile Methodologies
-- **Certifications**: Google IT Support, AWS Cloud Practitioner
+- **Work Experience**: Internships in mobile development
+- **Skills**: Kotlin, Python, SQL, Git, Agile Methodologies
+- **Certifications**: LPIC1 – Linux System Administrator Level 1, Furunkawa Professional Data Cabing
 
 ---
 
@@ -99,9 +98,8 @@ I'm a recent graduate in **Computer Science** from XYZ University, with a strong
 
 ## 📜 Certifications
 
-- ✅ [Google IT Support Professional Certificate](https://coursera.org/google-it-cert)
-- ✅ [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification)
-- ✅ Introduction to Python – Codecademy
+- ✅ LPIC1 – Linux System Administrator Level 1
+- ✅ Furukawa Professional Data Cabing
 
 ---
 
@@ -126,21 +124,9 @@ I'm a recent graduate in **Computer Science** from XYZ University, with a strong
 
 ---
 
-## 🗣 References/Testimonials
-
-> "John is a quick learner and showed great enthusiasm during his internship at ABC Tech."  
-> — *Jane Smith, Senior Developer at ABC Tech*
-
-> "An excellent team player who brings fresh ideas to the table."  
-> — *Professor Alan Grant, XYZ University*
-
----
-
 ## 📬 Contact Information
 
-- 📧 Email: johndoe@example.com
-- 💼 LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
-- 🐙 GitHub: [github.com/johndoe](https://github.com/johndoe)
+- 📧 Email: danielricardosdantosgois@gmail.com
 
 ---
 
