@@ -5,16 +5,16 @@ Welcome to my portfolio! I'm Daniel Gois, a passionate software developer dedica
 ---
 
 ## 🔗 Navigation
-- [About Me](#about-me)
-- [Resume](#resumecv)
-- [Projects](#projects)
-- [Technical Skills](#technical-skills)
-- [Experience](#internships-and-work-experience)
-- [Certifications](#certifications)
-- [Professional Development](#professional-development)
-- [Collaborative Projects](#collaborative-projects)
-- [References](#referencestestimonials)
-- [Contact](#contact-information)
+- [About Me](#-about-me)
+- [Resume](#-resumecv)
+- [Projects](#-projects)
+- [Technical Skills](#-technical-skills)
+- [Experience](#-internships-and-work-experience)
+- [Certifications](#-certifications)
+- [Professional Development](#-professional-development)
+- [Collaborative Projects](#-collaborative-projects)
+- [References](#-referencestestimonials)
+- [Contact](#-contact-information)
 
 ---
 
